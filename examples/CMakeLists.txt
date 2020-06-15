@@ -1,1 +1,4 @@
 add_subdirectory(u8g2_hw_i2c)
+add_subdirectory(u8g2_sw_i2c)
+add_subdirectory(u8g2_4wire_hw_spi)
+add_subdirectory(u8g2_4wire_sw_spi)
