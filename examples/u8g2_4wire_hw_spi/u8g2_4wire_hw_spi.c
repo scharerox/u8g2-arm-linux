@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "U8g2lib.h"
+#include "../../include/U8g2lib.h"
 
 // By default, SPI bus /dev/spidev0.0 is used, as defined in port/U8g2lib.h
 #define OLED_SPI_PIN_RES            25

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "U8g2lib.h"
+#include "../../include/U8g2lib.h"
 
 #define OLED_I2C_PIN_SCL                    20
 #define OLED_I2C_PIN_SDA                    21
