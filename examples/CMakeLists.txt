@@ -1,0 +1,1 @@
+add_subdirectory(u8g2_hw_i2c)
